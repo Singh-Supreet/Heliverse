@@ -1,20 +1,7 @@
-<h1 align="center" id="title">Heliverse Internship Assignment</h1>
+<h1 align="center" id="title">Heliverse Assignment</h1>
 
-<p id="description">A Node.js-based application providing a RESTful API for managing user data. The server implements CRUD (Create Read Update Delete) operations for users allowing retrieval of filtered and paginated user lists.</p>
+<p id="description">An application built on Node.js offers a RESTful API to handle user data management. The server facilitates CRUD (Create, Read, Update, Delete) functionalities for users, enabling the retrieval of filtered and paginated lists of users.</p>
 
-  
-  
-<h2>🧐 Features</h2>
-
-Here're some of the project's best features:
-
-*   Technology: Node.js Express.js
-*   Data Storage: JSON file (for development and demonstration purposes; consider a more robust database for production)
-*   GET /api/users (Read): Retrieves a list of users optionally filtered and paginated based on query parameters (search term domain gender availability).
-*   GET /api/users/:id (Read): Retrieves a specific user by ID.
-*   POST /api/users (Create): Creates a new user.
-*   PUT /api/users/:id (Update): Updates an existing user.
-*   DELETE /api/users/:id (Delete): Deletes a user by ID.
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -23,7 +10,7 @@ Here're some of the project's best features:
 <p>2. Clone or Download the Repository:</p>
 
 ```
-https://github.com/dark-byte/Heliverse_Assignment.git
+https://github.com/Singh-Supreet/Heliverse
 ```
 
 <p>3. Install Dependencies:</p>
@@ -55,18 +42,12 @@ cd ../client
 ```
 npm start
 ```
-
-<h2>🍰 Contribution Guidelines:</h2>
-
-Welcome contributions! Feel free to fork the repository and submit pull requests.
-
-  
   
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
 
-*   NodeJS
-*   ExpressJS
 *   ReactJS
+*   NodeJS
+*   ExpressJs
 *   JSON
